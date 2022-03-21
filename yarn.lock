@@ -7497,6 +7497,13 @@ type-name@^2.0.1:
   resolved "https://registry.yarnpkg.com/type-name/-/type-name-2.0.2.tgz#efe7d4123d8ac52afff7f40c7e4dec5266008fb4"
   integrity sha1-7+fUEj2KxSr/9/QMfk3sUmYAj7Q=
 
+type-plus@1.35.1:
+  version "1.35.1"
+  resolved "https://registry.yarnpkg.com/type-plus/-/type-plus-1.35.1.tgz#15e39a0922fdf08d8d24cc7d1a5d50d3273434de"
+  integrity sha512-El1yp4aLFVpOwU/emJRxqw7+OsA8gUWILnrS8Ln5rafvHSG5tHopvmQLIBPdkFfRk65ZBcipVlk3XcfkL36jng==
+  dependencies:
+    unpartial "^0.6.3"
+
 type-plus@^1.29.0:
   version "1.29.0"
   resolved "https://registry.yarnpkg.com/type-plus/-/type-plus-1.29.0.tgz#b4cd7b1a25151378f051ead678beb31bbf15ed9d"
