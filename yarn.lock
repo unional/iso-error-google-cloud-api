@@ -139,7 +139,7 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@commitlint/cli@^8.1.0":
+"@commitlint/cli@8.1.0":
   version "8.1.0"
   resolved "https://registry.yarnpkg.com/@commitlint/cli/-/cli-8.1.0.tgz#a3d4236c0ac961d7026a53d728b179c696d6a045"
   integrity sha512-83K5C2nIAgoZlzMegf0/MEBjX+ampUyc/u79RxgX9ZYjzos+RQtNyO7I43dztVxPXSwAnX9XRgoOfkGWA4nbig==
@@ -156,7 +156,7 @@
     resolve-from "5.0.0"
     resolve-global "1.0.0"
 
-"@commitlint/config-conventional@^8.1.0":
+"@commitlint/config-conventional@8.1.0":
   version "8.1.0"
   resolved "https://registry.yarnpkg.com/@commitlint/config-conventional/-/config-conventional-8.1.0.tgz#ba61fbf0ad4df52da2b5ee3034470371a2cbf039"
   integrity sha512-/JY+FNBnrT91qzDVIoV1Buiigvj7Le7ezFw+oRqu0nYREX03k7xnaG/7t7rUSvm7hM6dnLSOlaUsevjgMI9AEw==
@@ -525,7 +525,7 @@
     universal-user-agent "^3.0.0"
     url-template "^2.0.8"
 
-"@semantic-release/changelog@^3.0.4":
+"@semantic-release/changelog@3.0.4":
   version "3.0.4"
   resolved "https://registry.yarnpkg.com/@semantic-release/changelog/-/changelog-3.0.4.tgz#8fc578b76bca5b23c3000694277c38e0fa835edd"
   integrity sha512-UqEPahcZSW0IKtzOglyjeEZCN99ku6Wb/yH/iOKEBJ7Vkw0/+Fc3VRiGoXTkMfHSFUJk+4UkoQKTlYuwf61C2w==
@@ -801,7 +801,7 @@
     lodash.unescape "4.0.1"
     semver "^6.3.0"
 
-"@unional/devpkg-node@^1.4.1":
+"@unional/devpkg-node@1.4.1":
   version "1.4.1"
   resolved "https://registry.yarnpkg.com/@unional/devpkg-node/-/devpkg-node-1.4.1.tgz#606085ee1db0ab52ad0eb641cedc0fa993c46409"
   integrity sha512-JHaFTngdpd11AD26PCff1EIxw6FwWQUjA425Zb8wzL/J08kaZUbxT37Yo3rp3H78ft3fH7ob+GTF918ebSakYg==
@@ -1130,7 +1130,7 @@ assertion-error@^1.1.0:
   resolved "https://registry.yarnpkg.com/assertion-error/-/assertion-error-1.1.0.tgz#e60b6b0e8f301bd97e5375215bda406c85118c0b"
   integrity sha512-jgsaNduz+ndvGyFt3uSuWqvy4lCnIJiovtouQN5JZHOKCS2QuhEdbcQHFhVksz2N2U9hXJo8odG7ETyWlEeuDw==
 
-assertron@^7.1.2:
+assertron@7.1.2:
   version "7.1.2"
   resolved "https://registry.yarnpkg.com/assertron/-/assertron-7.1.2.tgz#6c111e0b249dd805ced12b92f420def8af581816"
   integrity sha512-jsys8WRQ7axCtwg+RMswx37KFbtxfVfAh5LzxlzbOaWfcuDoNhH27ZZQ9FebI3UyDfxlGZ3xVQfn2RjqWYwOHQ==
@@ -1750,7 +1750,7 @@ combined-stream@^1.0.6, combined-stream@~1.0.6:
   dependencies:
     delayed-stream "~1.0.0"
 
-commitlint-circle@^1.0.0:
+commitlint-circle@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/commitlint-circle/-/commitlint-circle-1.0.0.tgz#87d529e8cdbff8ea1edfc75720900057de28582c"
   integrity sha512-YuwyQLM0NnbWN0Rt1dloQiw8kMcZGr1QVhyecYkV0pR1YOmc4QHwIM+c/2E7VxU8lzbI2gW0/2fRvOLAXJi5mQ==
@@ -3275,7 +3275,7 @@ humanize-ms@^1.2.1:
   dependencies:
     ms "^2.0.0"
 
-husky@^3.0.5:
+husky@3.0.5:
   version "3.0.5"
   resolved "https://registry.yarnpkg.com/husky/-/husky-3.0.5.tgz#d7db27c346645a8dc52df02aa534a377ad7925e0"
   integrity sha512-cKd09Jy9cDyNIvAdN2QQAP/oA21sle4FWXjIMDttailpLAYZuBE7WaPmhrkj+afS8Sj9isghAtFvWSQ0JiwOHg==
@@ -3771,15 +3771,15 @@ isexe@^2.0.0:
   resolved "https://registry.yarnpkg.com/isexe/-/isexe-2.0.0.tgz#e8fbf374dc556ff8947a10dcb0572d633f2cfa10"
   integrity sha1-6PvzdNxVb/iUehDcsFctYz8s+hA=
 
+iso-error@3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/iso-error/-/iso-error-3.0.1.tgz#f315ad5877b0b89669bf923c315dfa509b7ee176"
+  integrity sha512-4Zl3eW1XT1jiZcNpFwh5rpQ3gRGtIEOByqUNc1p6LIsKca87+j5AUcRxP/N7jewAybMOVyU2vtqFxYX5gNaeyQ==
+
 iso-error@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/iso-error/-/iso-error-3.0.0.tgz#992e67b1b7f5a48bc7dcf27f1764b8645b97bd34"
   integrity sha512-V6iHrjYoYEnfbQqnV+4D8jLaqMyvxYVQVc8e7W4vpsXHPg4fsb08p3jpsnh/svcaVElWR8YL9G3sN6JwfRAqGQ==
-
-iso-error@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/iso-error/-/iso-error-3.0.1.tgz#f315ad5877b0b89669bf923c315dfa509b7ee176"
-  integrity sha512-4Zl3eW1XT1jiZcNpFwh5rpQ3gRGtIEOByqUNc1p6LIsKca87+j5AUcRxP/N7jewAybMOVyU2vtqFxYX5gNaeyQ==
 
 isobject@^2.0.0:
   version "2.1.0"
@@ -7497,7 +7497,7 @@ type-name@^2.0.1:
   resolved "https://registry.yarnpkg.com/type-name/-/type-name-2.0.2.tgz#efe7d4123d8ac52afff7f40c7e4dec5266008fb4"
   integrity sha1-7+fUEj2KxSr/9/QMfk3sUmYAj7Q=
 
-type-plus@^1.29.0:
+type-plus@1.29.0, type-plus@^1.29.0:
   version "1.29.0"
   resolved "https://registry.yarnpkg.com/type-plus/-/type-plus-1.29.0.tgz#b4cd7b1a25151378f051ead678beb31bbf15ed9d"
   integrity sha512-YwkR5pwuKHS6WuQMmng/6LvE4Y92ObV9OkCZYrUJ5ypHJuaKMS2EEy8octHHnVeNStpFebX+aYgyUcpTB2lGmg==
