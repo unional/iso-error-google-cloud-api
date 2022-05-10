@@ -43,8 +43,8 @@
     "google-cloud-api": "^2.3.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^8.1.0",
-    "@commitlint/config-conventional": "^8.1.0",
+    "@commitlint/cli": "8.3.6",
+    "@commitlint/config-conventional": "8.3.6",
     "@semantic-release/changelog": "^3.0.4",
     "@unional/devpkg-node": "^1.4.1",
     "assertron": "^7.1.2",
